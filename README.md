@@ -53,6 +53,18 @@ see app.py
 
 
 
+#  Step 4:level 2-Creating grpahs with multiple inputs🔥
+<img width="796" height="404" alt="image" src="https://github.com/user-attachments/assets/32b8e438-aeaf-444d-a50e-ff89773e4e92" />
+
+- see level2.py
+
+
+### Optional(Adding streamming to output)
+### see level2_streamming.py
+
+https://github.com/user-attachments/assets/9a1da5d5-398e-47fb-b99d-1693af1382ff
+
+
 
 
 
