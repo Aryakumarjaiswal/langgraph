@@ -73,6 +73,12 @@ https://github.com/user-attachments/assets/9a1da5d5-398e-47fb-b99d-1693af1382ff
 
 #### (completed Agent 2,need  to practice  Agent 1& 2)
 
+Agent 1:created  simple chatbot
+
+Agent 2:created conversational history in temp file
+
+
+
 
 
 
