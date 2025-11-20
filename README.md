@@ -76,6 +76,8 @@ https://github.com/user-attachments/assets/9a1da5d5-398e-47fb-b99d-1693af1382ff
 Agent 1:created  simple chatbot
 
 Agent 2:created conversational history in temp file
+<img width="925" height="380" alt="image" src="https://github.com/user-attachments/assets/52792826-9bb9-41fe-aea4-0adf02a423c1" />
+
 
 
 
