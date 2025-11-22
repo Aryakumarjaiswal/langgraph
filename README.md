@@ -79,6 +79,9 @@ Agent 2:created conversational history in temp file
 <img width="925" height="380" alt="image" src="https://github.com/user-attachments/assets/52792826-9bb9-41fe-aea4-0adf02a423c1" />
 
 
+### ReAct Agent(Reasoning & Acting Agent)
+<img width="804" height="325" alt="image" src="https://github.com/user-attachments/assets/c27a832b-f3db-4797-a65c-29588d6687f6" />
+
 
 
 
