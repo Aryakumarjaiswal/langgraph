@@ -17,7 +17,7 @@ def process_values(state: AgentState) -> AgentState:
     state['result'] = ""
     for word in result.split():
         print(word, end=' ', flush=True)
-        time.sleep(0.3)  # adjust speed as needed
+        time.sleep(0.0001)  # adjust speed as needed
         state['result'] += word + " "
     
     print()  # for clean newline after stream
